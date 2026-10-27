@@ -26,6 +26,7 @@ Raw sequencing data were processed using established bioinformatics tools, as de
 ## Analysis scripts
 
 The `script/` directory contains R scripts used for DNA methylation analysis, epigenotype assignment, phylogenetic inference, identification of embryonic epiallelic commitment (EEC) events, statistical analyses and figure generation.
+Detailed instructions for the step-by-step process are described in the Methods section of the manuscript.
 
 ## Demo
 
